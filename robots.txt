@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://balloonvendor.github.io/sitemap.xml
